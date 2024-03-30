@@ -21,7 +21,6 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 <img src="https://github.com/GKARLOZ/GKARLOZ/assets/20764455/f2081aeb-f578-40e8-ae20-aba9d8562a3d" alt="appium" width="40" height="40"/>
 <img src="https://github.com/GKARLOZ/GKARLOZ/assets/20764455/83e693d7-019d-41a7-9a8b-e2828c1b32c9" alt="appium" width="40" height="40"/>
-<img src="https://github.com/GKARLOZ/GKARLOZ/assets/20764455/8780f56b-60ac-4432-be8e-3e410ac9fa0c" alt="appium" width="90" height="30"/>
 
 
 </p>
