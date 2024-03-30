@@ -30,24 +30,27 @@
 
 <ul>
   <li>
-    <b><a href="">OpenWeather Testing Framework</a></b><br>
+    <b><a href="">UQA Testing Framework</a></b><br>
     <img src="https://github.com/GKARLOZ/OpenWeather-Testing-Framework/assets/20764455/b2e0d3dd-c8c3-4ebb-95f2-166c4b8c45ed" alt="zebrunner screenshot" width="250" height="200"/>
   </li>
 </ul>
 
 <ul>
   <li>
-    <b><a href="">Scheduling Application- connected to a database (Java | mySql)</a></b><br>
-    <img src="https://github.com/GKARLOZ/Scheduling-Desktop-Application-WGU-SoftwareDevTwon/assets/20764455/5bfb493d-0bd2-40ef-b9d4-6724f85f0828" alt="scheduler gif" width="250" height="200"/>
+    <b><a href="">UQA Testing Framework</a></b><br>
+    <img src="https://github.com/GKARLOZ/OpenWeather-Testing-Framework/assets/20764455/b2e0d3dd-c8c3-4ebb-95f2-166c4b8c45ed" alt="zebrunner screenshot" width="250" height="200"/>
   </li>
 </ul>
 
 <ul>
   <li>
-    <b><a href="">Navigator (Group Project)</a></b><br>
-    <img src="https://github.com/GKARLOZ/Navigator/assets/20764455/d4817bce-4162-45b6-b9da-b8ef3745d117" alt="cmd screenshot" width="250" height="200"/>
+    <b><a href="">UQA Testing Framework</a></b><br>
+    <img src="https://github.com/GKARLOZ/OpenWeather-Testing-Framework/assets/20764455/b2e0d3dd-c8c3-4ebb-95f2-166c4b8c45ed" alt="zebrunner screenshot" width="250" height="200"/>
   </li>
 </ul>
+
+
+
 
 
 
