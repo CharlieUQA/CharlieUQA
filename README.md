@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlieUQA
+- 👋 Hi, I’m Carlos Garcia @CharlieUQA
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning Selenium
 - 💞️ I’m looking to collaborate on Open Source 
