@@ -39,14 +39,14 @@
 
 <ul>
   <li>
-    <b><a href="">UQA Testing Framework</a></b><br>
+    <b><a href="">Pruebas de Integración de Módulos de Software</a></b><br>
     <img src="https://github.com/GKARLOZ/OpenWeather-Testing-Framework/assets/20764455/b2e0d3dd-c8c3-4ebb-95f2-166c4b8c45ed" alt="zebrunner screenshot" width="250" height="200"/>
   </li>
 </ul>
 
 <ul>
   <li>
-    <b><a href="">UQA Testing Framework</a></b><br>
+    <b><a href="">Optimización de Rendimiento de una Aplicación Web de Alto Tráfico</a></b><br>
     <img src="https://github.com/GKARLOZ/OpenWeather-Testing-Framework/assets/20764455/b2e0d3dd-c8c3-4ebb-95f2-166c4b8c45ed" alt="zebrunner screenshot" width="250" height="200"/>
   </li>
 </ul>
