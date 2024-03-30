@@ -8,6 +8,7 @@
 - 👀 Estoy interesado en  Pruebas de Calidad
 - 🌱 Estoy aprendiendo Selenium
 - 💞️ Me gustaria colaborar en Open Source
+<br>
 
 
 <h2 align="left">Lenguajes de Código y Herramientas</h2>
@@ -24,6 +25,7 @@
 
 
 </p>
+<br>
 
 
 <h2>👨‍💻 Mejores Proyectos!:</h2>
